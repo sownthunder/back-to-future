@@ -1,9 +1,15 @@
 # back-to-future
-## Back to the Future game for Android / IOS 
 
 _roads... where we're going, we dont need... roads_
+
+## I. General Information
+
+### Back to the Future game for Android / IOS 
 - apk 
 - pc version coming right before we OUTATIME!
 
 
-## *Android Instructions...*
+## II. Installation Instructions
+
+### *Android Instructions...*
+- unlock yo shit
