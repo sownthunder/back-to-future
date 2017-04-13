@@ -4,10 +4,9 @@ _roads... where we're going, we dont need... roads_
 
 ## I. Liscense
 
-### Apache License 
-- Version 2.0 
-- January 2004
-- may change
+### MIT License 
+- Copyright (c) 2017 
+- See "LICENSE" for more
 
 ## II. General Information
 
