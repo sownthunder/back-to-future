@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Javascript\FluxCapacitor.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\FluxCapacitor.js" Line="850" Column="104" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\Eighty8Mph.js" Line="278" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

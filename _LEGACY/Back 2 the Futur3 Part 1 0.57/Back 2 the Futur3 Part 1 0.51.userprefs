@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Javascript\FluxCapacitor.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\DeLoreanController.js" Line="522" Column="13" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\PlayerController.js" Line="308" Column="47" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\CopController.js" Line="327" Column="30" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\FluxCapacitor.js" Line="526" Column="94" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

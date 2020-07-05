@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Javascript\DeLoreanController.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\DeLoreanController.js" Line="120" Column="11" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\FluxCapacitor.js" Line="258" Column="2" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\TrainController.js" Line="6" Column="60" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\Enemy88s.js" Line="128" Column="71" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\PlayerController.js" Line="220" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

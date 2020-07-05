@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back 2 the Futur3 Part 1.CSharp.Plugins", "Back 2 the Futur3 Part 1.CSharp.Plugins.csproj", "{3F185FDD-4162-C69D-8A93-80DA3F778EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back 2 the Futur3 Part 1.CSharp.Editor", "Back 2 the Futur3 Part 1.CSharp.Editor.csproj", "{60C1C050-354C-7F27-B8AE-40A97AE5D21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F185FDD-4162-C69D-8A93-80DA3F778EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F185FDD-4162-C69D-8A93-80DA3F778EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F185FDD-4162-C69D-8A93-80DA3F778EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F185FDD-4162-C69D-8A93-80DA3F778EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C1C050-354C-7F27-B8AE-40A97AE5D21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C1C050-354C-7F27-B8AE-40A97AE5D21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C1C050-354C-7F27-B8AE-40A97AE5D21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C1C050-354C-7F27-B8AE-40A97AE5D21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
