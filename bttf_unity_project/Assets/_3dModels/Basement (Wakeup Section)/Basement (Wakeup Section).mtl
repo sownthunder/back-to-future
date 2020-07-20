@@ -1,0 +1,158 @@
+# Blender MTL File: 'None'
+# Material Count: 12
+
+newmtl brick_6_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd brick_1_dif.png
+map_Bump brick_2_norm.png
+map_Ka brick_1_dif.png
+
+newmtl floor_2_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd apartments_guestroom_floor_dif.png
+map_Bump apartments_guestroom_floor_norm.png
+map_Ka apartments_guestroom_floor_dif.png
+
+newmtl ground_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ground_dif.png
+map_Bump ground_norm.png
+map_Ka ground_dif.png
+
+newmtl metal_14_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metal_2_dif.png
+map_Bump metal_2_norm.png
+map_Ka metal_2_dif.png
+
+newmtl metal_4_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metal_2_dif.png
+map_Bump metal_2_norm.png
+map_Ka metal_2_dif.png
+
+newmtl metal_inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd blue_noise_dif.png
+map_Bump metal_rusty_norm.png
+map_Ka blue_noise_dif.png
+
+newmtl metal_noise_dark2_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd blue_noise_dif.png
+map_Bump blue_noise_norrm.png
+map_Ka blue_noise_dif.png
+
+newmtl wall_clear_1_inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wallpaper_apartments_kitchen_rough.png
+map_Bump base_empty_normal_map.png
+map_Ka wallpaper_apartments_kitchen_rough.png
+
+newmtl wallpaper_16_inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wallpaper_15_dif.png
+map_Bump carpet_norm.png
+map_Ka wallpaper_15_dif.png
+
+newmtl wallpaper_32_inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wallpaper_32_dif.png
+map_Bump wallpaper_norm.png
+map_Ka wallpaper_32_dif.png
+
+newmtl wallpaper_apartments_kitchen_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wallpaper_apartments_kitchen_dif.png
+map_Bump wallpaper_apartments_kitchen_norm.png
+map_Ka wallpaper_apartments_kitchen_dif.png
+
+newmtl wood_23_inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wood_23_dif.png
+map_Bump wood_23_norm.png
+map_Ka wood_23_dif.png

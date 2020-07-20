@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 1013a687373b70b419304f6f88630b8e
+timeCreated: 1544650892
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: DrawCal100
+    100002: DrawCal101
+    100004: DrawCal102
+    100006: DrawCal103
+    100008: DrawCal104
+    100010: DrawCal105
+    100012: DrawCal106
+    100014: DrawCal107
+    100016: DrawCal108
+    100018: DrawCall65
+    100020: DrawCall66
+    100022: DrawCall67
+    100024: DrawCall68
+    100026: DrawCall69
+    100028: DrawCall86
+    100030: DrawCall87
+    100032: DrawCall88
+    100034: DrawCall89
+    100036: DrawCall90
+    100038: DrawCall91
+    100040: DrawCall92
+    100042: DrawCall93
+    100044: DrawCall94
+    100046: DrawCall95
+    100048: DrawCall96
+    100050: DrawCall97
+    100052: DrawCall98
+    100054: DrawCall99
+    100056: //RootNode
+    400000: DrawCal100
+    400002: DrawCal101
+    400004: DrawCal102
+    400006: DrawCal103
+    400008: DrawCal104
+    400010: DrawCal105
+    400012: DrawCal106
+    400014: DrawCal107
+    400016: DrawCal108
+    400018: DrawCall65
+    400020: DrawCall66
+    400022: DrawCall67
+    400024: DrawCall68
+    400026: DrawCall69
+    400028: DrawCall86
+    400030: DrawCall87
+    400032: DrawCall88
+    400034: DrawCall89
+    400036: DrawCall90
+    400038: DrawCall91
+    400040: DrawCall92
+    400042: DrawCall93
+    400044: DrawCall94
+    400046: DrawCall95
+    400048: DrawCall96
+    400050: DrawCall97
+    400052: DrawCall98
+    400054: DrawCall99
+    400056: //RootNode
+    2300000: DrawCal100
+    2300002: DrawCal101
+    2300004: DrawCal102
+    2300006: DrawCal103
+    2300008: DrawCal104
+    2300010: DrawCal105
+    2300012: DrawCal106
+    2300014: DrawCal107
+    2300016: DrawCal108
+    2300018: DrawCall65
+    2300020: DrawCall66
+    2300022: DrawCall67
+    2300024: DrawCall68
+    2300026: DrawCall69
+    2300028: DrawCall86
+    2300030: DrawCall87
+    2300032: DrawCall88
+    2300034: DrawCall89
+    2300036: DrawCall90
+    2300038: DrawCall91
+    2300040: DrawCall92
+    2300042: DrawCall93
+    2300044: DrawCall94
+    2300046: DrawCall95
+    2300048: DrawCall96
+    2300050: DrawCall97
+    2300052: DrawCall98
+    2300054: DrawCall99
+    2300056: //RootNode
+    3300000: DrawCal100
+    3300002: DrawCal101
+    3300004: DrawCal102
+    3300006: DrawCal103
+    3300008: DrawCal104
+    3300010: DrawCal105
+    3300012: DrawCal106
+    3300014: DrawCal107
+    3300016: DrawCal108
+    3300018: DrawCall65
+    3300020: DrawCall66
+    3300022: DrawCall67
+    3300024: DrawCall68
+    3300026: DrawCall69
+    3300028: DrawCall86
+    3300030: DrawCall87
+    3300032: DrawCall88
+    3300034: DrawCall89
+    3300036: DrawCall90
+    3300038: DrawCall91
+    3300040: DrawCall92
+    3300042: DrawCall93
+    3300044: DrawCall94
+    3300046: DrawCall95
+    3300048: DrawCall96
+    3300050: DrawCall97
+    3300052: DrawCall98
+    3300054: DrawCall99
+    3300056: //RootNode
+    4300000: Marty_McFl
+    4300002: DrawCall65
+    4300004: DrawCall66
+    4300006: DrawCall67
+    4300008: DrawCall68
+    4300010: DrawCall69
+    4300012: DrawCall86
+    4300014: DrawCall87
+    4300016: DrawCall88
+    4300018: DrawCall89
+    4300020: DrawCall90
+    4300022: DrawCall91
+    4300024: DrawCall92
+    4300026: DrawCall93
+    4300028: DrawCall94
+    4300030: DrawCall95
+    4300032: DrawCall96
+    4300034: DrawCall97
+    4300036: DrawCall98
+    4300038: DrawCall99
+    4300040: DrawCal100
+    4300042: DrawCal101
+    4300044: DrawCal102
+    4300046: DrawCal103
+    4300048: DrawCal104
+    4300050: DrawCal105
+    4300052: DrawCal106
+    4300054: DrawCal107
+    4300056: DrawCal108
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2286fd50.dds
+    second: {fileID: 2100000, guid: 0f0c512aa6749d04b8f67fb2b5346435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2d597423.dds
+    second: {fileID: 2100000, guid: a3e578cf4f94e124baa2d060dd1db8ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 71d95c5d.dds
+    second: {fileID: 2100000, guid: 41d025adf128f0b4e851f29a6b93c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b58bb0e4.dds
+    second: {fileID: 2100000, guid: aa43f513e4e7a6148b182a8849dd98ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d6ec2d4b.dds
+    second: {fileID: 2100000, guid: cba738e4ea59c7d4dae383090e2e3ec9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
