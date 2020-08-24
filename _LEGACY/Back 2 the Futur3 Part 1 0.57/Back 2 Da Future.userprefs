@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\High Seas\Assets\Scripts\ShipBattleManagarr.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\FluxCapacitor.cs" Line="33" Column="73" />
+      <File FileName="Assets\Standard Assets\Scripts\PlayerController.cs" Line="17" Column="15" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\88MILESPERHOUR.js" Line="8" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\VehicleController.cs" Line="9" Column="30" />
+      <File FileName="..\High Seas\Assets\Scripts\ShipBattleManagarr.cs" Line="28" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

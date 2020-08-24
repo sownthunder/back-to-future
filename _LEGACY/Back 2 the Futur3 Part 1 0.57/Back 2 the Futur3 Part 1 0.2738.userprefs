@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Javascript\DeLoreanController.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\Flocking.js" Line="526" Column="23" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\ItemSpawner.js" Line="30" Column="29" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\CopController.js" Line="199" Column="2" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\DeLoreanController.js" Line="22" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

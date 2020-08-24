@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Javascript\FluxCapacitor.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\FluxCapacitor.js" Line="886" Column="32" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\PlayerController.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Javascript\DeLoreanController.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: a8579a702ab10a7499ed0f327d60a094
+timeCreated: 1544650913
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Marty_McFly_DrawCal100
+    100004: Marty_McFly_DrawCal101
+    100006: Marty_McFly_DrawCal102
+    100008: Marty_McFly_DrawCal103
+    100010: Marty_McFly_DrawCal104
+    100012: Marty_McFly_DrawCal105
+    100014: Marty_McFly_DrawCal106
+    100016: Marty_McFly_DrawCal107
+    100018: Marty_McFly_DrawCal108
+    100020: Marty_McFly_DrawCall65
+    100022: Marty_McFly_DrawCall66
+    100024: Marty_McFly_DrawCall67
+    100026: Marty_McFly_DrawCall68
+    100028: Marty_McFly_DrawCall69
+    100030: Marty_McFly_DrawCall86
+    100032: Marty_McFly_DrawCall87
+    100034: Marty_McFly_DrawCall88
+    100036: Marty_McFly_DrawCall89
+    100038: Marty_McFly_DrawCall90
+    100040: Marty_McFly_DrawCall91
+    100042: Marty_McFly_DrawCall92
+    100044: Marty_McFly_DrawCall93
+    100046: Marty_McFly_DrawCall94
+    100048: Marty_McFly_DrawCall95
+    100050: Marty_McFly_DrawCall96
+    100052: Marty_McFly_DrawCall97
+    100054: Marty_McFly_DrawCall98
+    100056: Marty_McFly_DrawCall99
+    400000: //RootNode
+    400002: Marty_McFly_DrawCal100
+    400004: Marty_McFly_DrawCal101
+    400006: Marty_McFly_DrawCal102
+    400008: Marty_McFly_DrawCal103
+    400010: Marty_McFly_DrawCal104
+    400012: Marty_McFly_DrawCal105
+    400014: Marty_McFly_DrawCal106
+    400016: Marty_McFly_DrawCal107
+    400018: Marty_McFly_DrawCal108
+    400020: Marty_McFly_DrawCall65
+    400022: Marty_McFly_DrawCall66
+    400024: Marty_McFly_DrawCall67
+    400026: Marty_McFly_DrawCall68
+    400028: Marty_McFly_DrawCall69
+    400030: Marty_McFly_DrawCall86
+    400032: Marty_McFly_DrawCall87
+    400034: Marty_McFly_DrawCall88
+    400036: Marty_McFly_DrawCall89
+    400038: Marty_McFly_DrawCall90
+    400040: Marty_McFly_DrawCall91
+    400042: Marty_McFly_DrawCall92
+    400044: Marty_McFly_DrawCall93
+    400046: Marty_McFly_DrawCall94
+    400048: Marty_McFly_DrawCall95
+    400050: Marty_McFly_DrawCall96
+    400052: Marty_McFly_DrawCall97
+    400054: Marty_McFly_DrawCall98
+    400056: Marty_McFly_DrawCall99
+    2300000: Marty_McFly_DrawCal100
+    2300002: Marty_McFly_DrawCal101
+    2300004: Marty_McFly_DrawCal102
+    2300006: Marty_McFly_DrawCal103
+    2300008: Marty_McFly_DrawCal104
+    2300010: Marty_McFly_DrawCal105
+    2300012: Marty_McFly_DrawCal106
+    2300014: Marty_McFly_DrawCal107
+    2300016: Marty_McFly_DrawCal108
+    2300018: Marty_McFly_DrawCall65
+    2300020: Marty_McFly_DrawCall66
+    2300022: Marty_McFly_DrawCall67
+    2300024: Marty_McFly_DrawCall68
+    2300026: Marty_McFly_DrawCall69
+    2300028: Marty_McFly_DrawCall86
+    2300030: Marty_McFly_DrawCall87
+    2300032: Marty_McFly_DrawCall88
+    2300034: Marty_McFly_DrawCall89
+    2300036: Marty_McFly_DrawCall90
+    2300038: Marty_McFly_DrawCall91
+    2300040: Marty_McFly_DrawCall92
+    2300042: Marty_McFly_DrawCall93
+    2300044: Marty_McFly_DrawCall94
+    2300046: Marty_McFly_DrawCall95
+    2300048: Marty_McFly_DrawCall96
+    2300050: Marty_McFly_DrawCall97
+    2300052: Marty_McFly_DrawCall98
+    2300054: Marty_McFly_DrawCall99
+    3300000: Marty_McFly_DrawCal100
+    3300002: Marty_McFly_DrawCal101
+    3300004: Marty_McFly_DrawCal102
+    3300006: Marty_McFly_DrawCal103
+    3300008: Marty_McFly_DrawCal104
+    3300010: Marty_McFly_DrawCal105
+    3300012: Marty_McFly_DrawCal106
+    3300014: Marty_McFly_DrawCal107
+    3300016: Marty_McFly_DrawCal108
+    3300018: Marty_McFly_DrawCall65
+    3300020: Marty_McFly_DrawCall66
+    3300022: Marty_McFly_DrawCall67
+    3300024: Marty_McFly_DrawCall68
+    3300026: Marty_McFly_DrawCall69
+    3300028: Marty_McFly_DrawCall86
+    3300030: Marty_McFly_DrawCall87
+    3300032: Marty_McFly_DrawCall88
+    3300034: Marty_McFly_DrawCall89
+    3300036: Marty_McFly_DrawCall90
+    3300038: Marty_McFly_DrawCall91
+    3300040: Marty_McFly_DrawCall92
+    3300042: Marty_McFly_DrawCall93
+    3300044: Marty_McFly_DrawCall94
+    3300046: Marty_McFly_DrawCall95
+    3300048: Marty_McFly_DrawCall96
+    3300050: Marty_McFly_DrawCall97
+    3300052: Marty_McFly_DrawCall98
+    3300054: Marty_McFly_DrawCall99
+    4300000: Marty_McFly_DrawCal100
+    4300002: Marty_McFly_DrawCal101
+    4300004: Marty_McFly_DrawCal102
+    4300006: Marty_McFly_DrawCal103
+    4300008: Marty_McFly_DrawCal104
+    4300010: Marty_McFly_DrawCal105
+    4300012: Marty_McFly_DrawCal106
+    4300014: Marty_McFly_DrawCal107
+    4300016: Marty_McFly_DrawCal108
+    4300018: Marty_McFly_DrawCall65
+    4300020: Marty_McFly_DrawCall66
+    4300022: Marty_McFly_DrawCall67
+    4300024: Marty_McFly_DrawCall68
+    4300026: Marty_McFly_DrawCall69
+    4300028: Marty_McFly_DrawCall86
+    4300030: Marty_McFly_DrawCall87
+    4300032: Marty_McFly_DrawCall88
+    4300034: Marty_McFly_DrawCall89
+    4300036: Marty_McFly_DrawCall90
+    4300038: Marty_McFly_DrawCall91
+    4300040: Marty_McFly_DrawCall92
+    4300042: Marty_McFly_DrawCall93
+    4300044: Marty_McFly_DrawCall94
+    4300046: Marty_McFly_DrawCall95
+    4300048: Marty_McFly_DrawCall96
+    4300050: Marty_McFly_DrawCall97
+    4300052: Marty_McFly_DrawCall98
+    4300054: Marty_McFly_DrawCall99
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal100Mat
+    second: {fileID: 2100000, guid: 8f67125def4ff46428199150699315c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal101Mat
+    second: {fileID: 2100000, guid: 6c2ae673bfe12fc4084d35ba78a31e7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal102Mat
+    second: {fileID: 2100000, guid: c397c82a1e1d21b4bbd2d86f08fd8304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal103Mat
+    second: {fileID: 2100000, guid: 45d165d79e5385742aa10b0c6afefb91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal104Mat
+    second: {fileID: 2100000, guid: 0445f5f5114273f409ebc2e03b0a207a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal105Mat
+    second: {fileID: 2100000, guid: 31278d9d0cfbd6c439e3b6af64485d8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal106Mat
+    second: {fileID: 2100000, guid: 0d4b0ff6edc6e234b8142f980931b28d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal107Mat
+    second: {fileID: 2100000, guid: 9b1babfe9ba8b8b42a756de2ca02a3e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCal108Mat
+    second: {fileID: 2100000, guid: b36d9c1183620ac45a55e5a4541890c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall65Mat
+    second: {fileID: 2100000, guid: 8446a3582784dec48b88493a1507d90d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall66Mat
+    second: {fileID: 2100000, guid: 058f5b00d58c36b4782f14e94237ced1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall67Mat
+    second: {fileID: 2100000, guid: 86a2d316c2254314a8a1dd8afa6ce60c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall68Mat
+    second: {fileID: 2100000, guid: 5bb187abdcb08074cb52ca3b4ab82bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall69Mat
+    second: {fileID: 2100000, guid: cba316483a359ca44b39f06cb2ea9250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall86Mat
+    second: {fileID: 2100000, guid: 54b5b15b65e2cb9488cd7b2c33f71403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall87Mat
+    second: {fileID: 2100000, guid: 328f7a500506bfd419f3b97126524ccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall88Mat
+    second: {fileID: 2100000, guid: a109e08649614f646ba11cd743bbec3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall89Mat
+    second: {fileID: 2100000, guid: 0c7bf71548de6a94a85c5f267f52ab38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall90Mat
+    second: {fileID: 2100000, guid: 4198b23c7659eaa4eace4ab6d030096a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall91Mat
+    second: {fileID: 2100000, guid: 7dc0aeafa32f1a244940f0f59e292b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall92Mat
+    second: {fileID: 2100000, guid: cdf3a158712936f4490caee8043e0eb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall93Mat
+    second: {fileID: 2100000, guid: c805445f22de92f4ab96a86dd63fc9b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall94Mat
+    second: {fileID: 2100000, guid: ef8bced0a69b5dc4883e687516e0dda9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall95Mat
+    second: {fileID: 2100000, guid: f556b2ee847b2e44d839278548bdeadf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall96Mat
+    second: {fileID: 2100000, guid: 750744f6b30aaec4aa7b80a23f72b7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall97Mat
+    second: {fileID: 2100000, guid: 8f55dd22a7021c94f8b9199dfd10d4bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall98Mat
+    second: {fileID: 2100000, guid: e89b47cb246da464f8d98869d707c83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marty_McFly_DrawCall99Mat
+    second: {fileID: 2100000, guid: 9584b2860e6c448479d0d6180992f0e5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
